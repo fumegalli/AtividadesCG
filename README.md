@@ -8,4 +8,4 @@ As modificações necessárias para cada entrega estão separadas por commit.
 ## [Módulo 2 (Vivencial) - Cube.obj](./ObjCube/RESULT.md)
 ## [Módulo 3 - Texturas](./HelloTextures/RESULT.md)
 ## [Módulo 4 - Iluminação](./SuzannePhong/RESULT.md)
-
+## [Módulo 5 - Câmera](./Camera/RESULT.md)
